@@ -1,0 +1,9 @@
+Task Details
+Exercise: file uploading
+-- restricting file size & type on upload
+- include & require
+- php display errors
+- php data serialize
+- constants
+- strict type variables
+- type casting

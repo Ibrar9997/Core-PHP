@@ -1,0 +1,7 @@
+Task Details
+--if else  
+--switch  
+--loops  
+--arrays all function 
+--regex in php 
+*study in details

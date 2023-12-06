@@ -1,0 +1,6 @@
+<> OOP in php
+- inheritance, polymorphism
+- private, public, protected
+- static function, static variables
+- server sessions & server cookies
+4 pilers in oop

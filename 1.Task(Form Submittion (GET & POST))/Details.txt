@@ -1,0 +1,8 @@
+Task Details
+
+Install IDE (phpstrom, vscode, webstorm, netbeans, or any)
+- install Xamp / Wamp
+<> Starting from Core PHP
+- Exercise: Form Submittion (GET & POST)
+- PHP global arrays
+- Display all form data on different page

@@ -1,0 +1,5 @@
+Task Details
+mysql basic queries:
+-- Select, insert, Update, Create / alter table
+-- phpmyadmin / sqlyog / mysql-workbench (or any)
+- connect DB in php (use PDO & not mysqli / mysql connection functions)
