@@ -71,3 +71,5 @@ if ($exp) {
 echo "<pre>";
 print_r($array2);
 echo "</pre> <br>";
+
+// A lots of more REGEX are there basic arre explain earlier.
