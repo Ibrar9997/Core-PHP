@@ -1,0 +1,6 @@
+Exercise: Basic CRUD (to do-application)
+-- From to create
+-- Show saved db entries in a table
+-- Edit entry (update)
+-- Delete entry
+- function in php
